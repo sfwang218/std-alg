@@ -1,5 +1,8 @@
 package bit_op;
 
+/**
+ * 找出数组中 出现奇数次的 元素
+ */
 public class EvenTimesOddTimes {
 
     // arr中 只有一个数 出现奇数次
