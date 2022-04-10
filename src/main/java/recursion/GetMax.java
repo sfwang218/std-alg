@@ -6,7 +6,7 @@ package recursion;
 public class GetMax {
 
     public static int getMax(int[] arr) {
-        return process(arr, 0, arr.length);
+        return process(arr, 0, arr.length - 1);
     }
 
     // arr[L..R]范围上求最大值  L ... R   N
